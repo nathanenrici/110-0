@@ -21,4 +21,3 @@ relative link to the [readme](README.md)
 - [ ] second thing
 - [x] third thing
 
-you should be able to glean all the information you need about me from this :()
