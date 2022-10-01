@@ -21,7 +21,7 @@ System.out.println("Hello World");
 ### As a person
 
 ##### Football
-I enjoy watching the [NFL]([google.com](https://www.nfl.com/))
+I enjoy watching the [NFL](https://www.nfl.com/)
 ![Picture](https://www.si.com/.image/t_share/MTkyNjMyMDYxNTMyNTc5MzY0/dolphins-butt-punt.jpg)
 
 ##### Music
